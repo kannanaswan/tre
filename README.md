@@ -29,15 +29,15 @@
 
   </a>
   
-  <a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/MRK-YT/Pro-Auto-Filter-Bot?label=Fork&style=social">
+  <a href="https://github.com/kannanaswan/tre/fork">
+    <img src="https://img.shields.io/github/forks/kannanaswan/tre?label=Fork&style=social">
 
   </a>  
 </p>
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Pro-Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannanaswan/tre)
 
 
 ## Configs
