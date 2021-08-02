@@ -4,17 +4,15 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>HLO {} !!</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>Am Just A Pro Auto Filter Bot By CMW....😉</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<b> എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ add ആക്കാൻ നോക്കണ്ട🔥🔥😝</b>
 
-<b>Watch the video below to build an Pro Autofilter bot like me...</b>
+<b>OFFICIALY MADE FOR CMW...</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+<b>TEAM CMW OFFICIAL</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
@@ -59,5 +57,5 @@ class Translation(object):
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://github.com/kannanaswan/tre">💥Click Me</a></b>
 """
